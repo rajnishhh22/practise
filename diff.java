@@ -3,6 +3,7 @@ public class sum{
         int a =4;
         int b =6;
         int c =5;
-        System.out.println("Sum is :" + (b-c));
+        System.out.println(" Result of Sum is :" + (b-c));
+        
     }
 }
